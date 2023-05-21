@@ -1,0 +1,10 @@
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Behavioral Patterns\IteratorTestApp\IteratorTestApp\bin\Debug\IteratorTestApp.exe
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Behavioral Patterns\IteratorTestApp\IteratorTestApp\bin\Debug\IteratorTestApp.pdb
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Behavioral Patterns\IteratorTestApp\IteratorTestApp\obj\Debug\IteratorTestApp.csprojResolveAssemblyReference.cache
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Behavioral Patterns\IteratorTestApp\IteratorTestApp\obj\Debug\IteratorTestApp.exe
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Behavioral Patterns\IteratorTestApp\IteratorTestApp\obj\Debug\IteratorTestApp.pdb
+D:\class\ITPassport\Advanced Programming & Design Patterns\Behavioral Patterns\Iterator\IteratorTestApp\obj\Debug\IteratorTestApp.exe
+D:\class\ITPassport\Advanced Programming & Design Patterns\Behavioral Patterns\Iterator\IteratorTestApp\obj\Debug\IteratorTestApp.pdb
+D:\class\ITPassport\Advanced Programming & Design Patterns\Behavioral Patterns\Iterator\IteratorTestApp\bin\Debug\IteratorTestApp.exe
+D:\class\ITPassport\Advanced Programming & Design Patterns\Behavioral Patterns\Iterator\IteratorTestApp\bin\Debug\IteratorTestApp.pdb
+D:\class\ITPassport\Advanced Programming & Design Patterns\Behavioral Patterns\Iterator\IteratorTestApp\obj\Debug\IteratorTestApp.csprojResolveAssemblyReference.cache
